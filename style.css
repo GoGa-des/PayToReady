@@ -93,7 +93,7 @@ nav a {
 }
 .book img{
     
-    width: 25%;
+    width: 80%;
 }
 .bok {
     margin-top: 20px;
@@ -104,7 +104,7 @@ nav a {
     justify-content: center;
 }
 .bok img {
-    width: 25%;
+    width: 80%;
 }
 .boook {
     margin-top: 20px;
@@ -115,7 +115,7 @@ nav a {
     justify-content: center;
 }
 .boook img {
-    width: 25%;
+    width: 80%;
 }
 .podval {
     background-color: white;
